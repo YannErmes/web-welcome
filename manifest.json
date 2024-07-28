@@ -1,6 +1,6 @@
 {
-    "name": "clike_funnel",
-    "short_name": "clike_funnel",
+    "name": "fitness_site",
+    "short_name": "fitness_site",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
